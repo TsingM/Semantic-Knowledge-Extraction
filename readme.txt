@@ -1,3 +1,5 @@
+Semantic-Knowledge-Extraction V1.0
+
 with_hash: action节点带有哈希值
 without_hash:  action节点不带哈希值
 ——————————————————————————————————————————————————
